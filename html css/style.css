@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght³300;400&display=swap");
 
 :root {
-  --violet: #d33bfd; /* Declarer la Variable*/
+  --violet: red; /* Declarer la Variable*/
 }
 
 body {
